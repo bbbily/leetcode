@@ -6,7 +6,7 @@
 My solutions of LeetCode problem
 
 
-##Submissions
+## Submissions
 
 | Sequence | Title | Difficulty | Submission |
 | - | :- | :-: | :- |
