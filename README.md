@@ -10,3 +10,4 @@ My solutions of LeetCode problem
 
 | Sequence | Title | Difficulty | Submission |
 | - | :- | :-: | :- |
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[JavaScript](./algorithms/MergeTwoSortedLists.js)|Easy|

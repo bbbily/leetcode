@@ -1,0 +1,7 @@
+/node_modules
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea
+config.js
